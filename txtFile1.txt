@@ -1,1 +1,2 @@
-Create txtFile1.txt
+txtFile1
+RECREATE this
